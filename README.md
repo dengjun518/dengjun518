@@ -2,8 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python rpa
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me, my email adress jundeng@yeah.net
-
+- 📫 How to reach me, my email adress jundeng@163.com
 
 
 
